@@ -1,2 +1,0 @@
-lio-sam-noted
--DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCATKIN_DEVEL_PREFIX=/home/zwei/workspace/OpenSource/lio-sam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zwei/workspace/OpenSource/lio-sam_ws/install -G Unix Makefiles

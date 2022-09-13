@@ -1,0 +1,15 @@
+*/devel/
+*/build/
+.cache/
+.cache/clangd/index/
+.catkin_tools/
+.vscode/
+*/.vscode/
+
+
+*.log
+*.idx
+*.txt
+
+# Catkin custom files
+CATKIN_IGNORE
